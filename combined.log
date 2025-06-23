@@ -1,0 +1,32 @@
+{"level":"info","message":"🧠 Running scrapper in runtime: nodejs","service":"user-service"}
+{"level":"info","message":"✅ Successfully fetched 24 Flipkart products for query 'mobile'","service":"user-service"}
+{"level":"info","message":"🧠 Running scrapper in runtime: nodejs","service":"user-service"}
+{"level":"info","message":"✅ Successfully fetched 0 Flipkart products for query 'mobile'","service":"user-service"}
+{"level":"info","message":"🧠 Running scrapper in runtime: nodejs","service":"user-service"}
+{"level":"info","message":"✅ Successfully fetched 24 Flipkart products for query 'mobile'","service":"user-service"}
+{"level":"info","message":"🧠 Running scrapper in runtime: nodejs","service":"user-service"}
+{"level":"error","message":"❌ ScraperAPI error: timeout of 15000ms exceeded","service":"user-service"}
+{"level":"info","message":"🧠 Running scrapper in runtime: nodejs","service":"user-service"}
+{"level":"info","message":"✅ Successfully fetched 40 Flipkart products for query 'mobikle'","service":"user-service"}
+{"level":"info","message":"🧠 Running scrapper in runtime: nodejs","service":"user-service"}
+{"level":"info","message":"✅ Successfully fetched 24 Flipkart products for query 'mobikle'","service":"user-service"}
+{"level":"info","message":"🧠 Running scrapper in runtime: nodejs","service":"user-service"}
+{"level":"info","message":"✅ Successfully fetched 40 Flipkart products for query 'kurta'","service":"user-service"}
+{"level":"info","message":"🧠 Running delivery date scrapper in runtime: nodejs","service":"user-service"}
+{"level":"info","message":"✅ Successfully fetched delivery date: 26 Jun, Thursday for Flipkart product 'https://www.flipkart.com/yugnik-men-solid-a-line-kurta/p/itm795f4f4d1f8a0?pid=KTAH2NCHCCJARZTY&lid=LSTKTAH2NCHCCJARZTYVYXMWO&marketplace=FLIPKART&q=kurta&store=clo%2Fcfv%2Fcib&srno=s_1_1&otracker=search&fm=organic&iid=79b311ff-642d-4f84-8e1e-a9aa07749e91.KTAH2NCHCCJARZTY.SEARCH&ppt=None&ppn=None&ssid=enx24qf38g0000001750677016572&qH=294d4e7d60d14587'","service":"user-service"}
+{"level":"info","message":"🧠 Running scrapper in runtime: nodejs","service":"user-service"}
+{"level":"info","message":"✅ Successfully fetched 24 Flipkart products for query 'laptop'","service":"user-service"}
+{"level":"info","message":"🧠 Running delivery date scrapper in runtime: nodejs","service":"user-service"}
+{"level":"info","message":"✅ Successfully fetched delivery date: 30 Jun, Monday for Flipkart product 'https://www.flipkart.com/hp-chromebook-intel-celeron-dual-core-n4120-4-gb-64-gb-emmc-storage-chrome-os-14a-ca0506tu/p/itmb2e03ff1f9366?pid=COMGBHKFAYHEMVAT&lid=LSTCOMGBHKFAYHEMVATTMWBVX&marketplace=FLIPKART&q=laptop&store=6bo%2Fb5g&srno=s_1_1&otracker=search&fm=organic&iid=en_M9M553BrhmFaqis07-vaJK7YauNOZKSQDr5ipGiBKwRgqNMZGCaMDF_GDI_ps02m6quWe2mWIVu-NDa17UCPfvUFjCTyOHoHZs-Z5_PS_w0%3D&ppt=None&ppn=None&ssid=r9gf0ar0800000001750677187172&qH=312f91285e048e09'","service":"user-service"}
+{"level":"info","message":"🧠 Running scrapper in runtime: nodejs","service":"user-service"}
+{"level":"info","message":"✅ Successfully fetched 40 Flipkart products for query 'motherboard'","service":"user-service"}
+{"level":"info","message":"🧠 Running delivery date scrapper in runtime: nodejs","service":"user-service"}
+{"level":"info","message":"✅ Successfully fetched delivery date: 2 Jul, Wednesday for Flipkart product 'https://www.flipkart.com/consistents-h-81-motherboard-nvme-slot-lga-1150socket-atx-intel-h61-b3-chipset-ddr3-desktop/p/itm69976639e401e?pid=MBDH6QWRPEUHZA4P&lid=LSTMBDH6QWRPEUHZA4PEPSHPG&marketplace=FLIPKART&q=motherboard&store=6bo%2Fg0i%2Fy7i&srno=s_1_1&otracker=search&fm=organic&iid=769c862b-02cc-40d5-aa40-2150aacbb281.MBDH6QWRPEUHZA4P.SEARCH&ppt=None&ppn=None&ssid=uied788mao0000001750677682039&qH=63ea45b84052361a'","service":"user-service"}
+{"level":"info","message":"🧠 Running scrapper in runtime: nodejs","service":"user-service"}
+{"level":"info","message":"✅ Successfully fetched 24 Flipkart products for query 'laptop'","service":"user-service"}
+{"level":"info","message":"🧠 Running delivery date scrapper in runtime: nodejs","service":"user-service"}
+{"level":"info","message":"✅ Successfully fetched delivery date: 30 Jun, Monday for Flipkart product 'https://www.flipkart.com/hp-chromebook-intel-celeron-dual-core-n4120-4-gb-64-gb-emmc-storage-chrome-os-14a-ca0506tu/p/itmb2e03ff1f9366?pid=COMGBHKFAYHEMVAT&lid=LSTCOMGBHKFAYHEMVATTMWBVX&marketplace=FLIPKART&q=laptop&store=6bo%2Fb5g&srno=s_1_1&otracker=search&fm=organic&iid=en_PpGEzyUaGnK8eu34b72GO9kADTG2QAL1OAf5mfGcc5V39SlDNm8Yw0_NZpDB1hx-6quWe2mWIVu-NDa17UCPfvUFjCTyOHoHZs-Z5_PS_w0%3D&ppt=None&ppn=None&ssid=rqgw0xegao0000001750678442079&qH=312f91285e048e09'","service":"user-service"}
+{"level":"info","message":"🧠 Running scrapper in runtime: nodejs","service":"user-service"}
+{"level":"info","message":"✅ Successfully fetched 40 Flipkart products for query 'hotwheels'","service":"user-service"}
+{"level":"info","message":"🧠 Running delivery date scrapper in runtime: nodejs","service":"user-service"}
+{"level":"info","message":"✅ Successfully fetched delivery date: 26 Jun, Thursday for Flipkart product 'https://www.flipkart.com/hot-wheels-5-car-gift-pack/p/itmeth4axcyyubwy?pid=VPAECBWQ6AEZ2H5D&lid=LSTVPAECBWQ6AEZ2H5DL52GMO&marketplace=FLIPKART&q=hotwheels&store=tng%2F56a&spotlightTagId=default_BestsellerId_tng%2F56a&srno=s_1_1&otracker=search&fm=organic&iid=2ccd9c71-9dde-4a8d-8e56-3fa4ec50fe76.VPAECBWQ6AEZ2H5D.SEARCH&ppt=None&ppn=None&ssid=8qnml4cib40000001750678609238&qH=704622fa32e87172'","service":"user-service"}
