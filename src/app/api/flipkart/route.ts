@@ -5,19 +5,18 @@ import { SortOptions } from '@/types/sort-options';
 import axios, { AxiosError } from 'axios';
 import * as cheerio from 'cheerio';
 import { NextRequest } from 'next/server';
-import { SCRAPER_API_KEY, SCRAPER_API_URL } from '@/lib/constants';
+import { SCRAPINGDOG_API_KEY, SCRAPINGDOG_API_URL } from '@/lib/constants';
 
-async function fetchWithScraperAPI(targetUrl: string): Promise<string> {
-  const response = await axios.get(SCRAPER_API_URL, {
+async function fetchWithScrapingDog(targetUrl: string): Promise<string> {
+  const resp = await axios.get(SCRAPINGDOG_API_URL, {
     params: {
-      api_key: SCRAPER_API_KEY,
+      api_key: SCRAPINGDOG_API_KEY,
       url: targetUrl,
-      country_code: 'in',
-      device_type: 'desktop',
-      premium: true,
+      dynamic: 'true', // no JS rendering, faster for static content
     },
+    timeout: 60000, // allow up to 60s for retries :contentReference[oaicite:1]{index=1}
   });
-  return response.data;
+  return resp.data;
 }
 
 export async function GET(req: NextRequest) {
@@ -38,7 +37,8 @@ export async function GET(req: NextRequest) {
     if (sortBy === SortOptions.PRICE_ASC) searchUrl += '&sort=price_asc';
     else if (sortBy === SortOptions.PRICE_DESC) searchUrl += '&sort=price_desc';
 
-    const html = await fetchWithScraperAPI(searchUrl);
+    const html = await fetchWithScrapingDog(searchUrl);
+    
     const $ = cheerio.load(html);
     let products: Product[] = [];
 

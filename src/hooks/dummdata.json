@@ -1,0 +1,218 @@
+{
+  "search_metadata": {
+    "id": "685aac033d365651b27e6f61",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/d338f6f66466a4cd/685aac033d365651b27e6f61.json",
+    "created_at": "2025-06-24 13:45:39 UTC",
+    "processed_at": "2025-06-24 13:45:39 UTC",
+    "google_product_url": "https://www.google.co.in/shopping/product/6818597734019922811?uule=w+CAIQICIFSW5kaWE&gl=in&hl=en&prds=pid:6818597734019922811&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/d338f6f66466a4cd/685aac033d365651b27e6f61.html",
+    "total_time_taken": 2.09
+  },
+  "search_parameters": {
+    "engine": "google_product",
+    "product_id": "6818597734019922811",
+    "location_requested": "India",
+    "location_used": "India",
+    "google_domain": "google.co.in",
+    "hl": "en",
+    "gl": "in"
+  },
+  "product_results": {
+    "product_id": "6818597734019922811",
+    "title": "PRISCA Paisley Printed Notch Neck Panelled A-Line Kurta(L) by Myntra",
+    "prices": [
+      "₹399.00"
+    ],
+    "conditions": [
+      "New"
+    ],
+    "typical_prices": {
+      "shown_price": "₹399.00 at Myntra"
+    },
+    "reviews": 65,
+    "rating": 4.6,
+    "extensions": [
+      "Kurti/Kurta",
+      "Paisley",
+      "L",
+      "Rayon",
+      "Regular"
+    ],
+    "description": "Pink, white and green kurta Paisley printed Notch neck Three-quarter, flared sleeves A-line shape with regular style Knee length with flared hem Machine weave regular viscose rayon",
+    "media": [
+      {
+        "type": "image",
+        "link": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTvmXiCJ28CWCN-vizO9xPmX7wiyPnQesq9s_OQdquUZbFd1Wcbr0DpuRAuGFQ3GGYeyFEHL4onfTfpWlizbxTZtrM-8VPh&usqp=CAY"
+      },
+      {
+        "type": "image",
+        "link": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT1EicUDMFCF2hzd8WRMNamJwtfUzoOaXmrQQIkIAoQeuS1MsXMTkv5qRdgqOL0njR2RtrMB9cOavKezjD3f1LOsmxIyNnXxQ&usqp=CAY"
+      },
+      {
+        "type": "image",
+        "link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQN-lmxrJr216lJNa5AgYTf4M9OLGVveEefV4jOxj_w1yeL4rojRUVWG-hQa2l9pkG1l7gxSl42NAOX5HCQPBKQp-D4ZHlg&usqp=CAY"
+      },
+      {
+        "type": "image",
+        "link": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSMOOri8XZBn6j6vG4PWLl9RZ827i5TiYyzd9YKdIQ4vhdUblgMVo4LZqO-eBiGhsCro_3cZe7EpGtsoHBpbeMyDkyUoe6E&usqp=CAY"
+      },
+      {
+        "type": "image",
+        "link": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSGukfn4yAWmUCDZOEiQiYehDOJ40JJHoMZACkjyKgwwp-JgiCfSWaSRlDCxGdMnKq2ssYNujJ5Mxdr77JgClXd3qd2d5pmeQ&usqp=CAY"
+      },
+      {
+        "type": "image",
+        "link": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSqKRlzLhEd-Ck5WNUsK_nUSX8-POHr8mheoYFOZ4OgMi13J_xrXrDCxQZhqmRS7_7f642nBbYb0PVMeQ0THxyLuOq1pc6n&usqp=CAY"
+      },
+      {
+        "type": "image",
+        "link": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQT6olR8BjRtavVNAz3CkNNdb0Mh3-G2RhfLSjco9NO4cvxySCovzkxxdIMdAqSU-upqzS7YXqKTypHWKV0TVJQ6PC4K4yOiw&usqp=CAY"
+      }
+    ],
+    "sizes": {
+      "l": {
+        "link": "https://www.google.co.in/shopping/product/6818597734019922811?uule=w+CAIQICIFSW5kaWE&gl=in&hl=en&prds=pid:6818597734019922811&sourceid=chrome&ie=UTF-8",
+        "product_id": "6818597734019922811",
+        "selected": true,
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_product&gl=in&google_domain=google.co.in&hl=en&location=India&product_id=6818597734019922811"
+      },
+      "s": {
+        "link": "https://www.google.co.in/shopping/product/15508154898307175212?ie=UTF-8&uule=w+CAIQICIFSW5kaWE&hl=en&gl=in&sourceid=chrome&prds=opd:7604939094073560722,rsk:PC_1421592916603555831&sa=X&ved=0ahUKEwiJ6rbamIqOAxW2EFkFHQKiM5MQlIUHCCYoAA",
+        "product_id": "15508154898307175212",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_product&gl=in&google_domain=google.co.in&hl=en&location=India&product_id=15508154898307175212"
+      },
+      "m": {
+        "link": "https://www.google.co.in/shopping/product/8724381035601074569?ie=UTF-8&uule=w+CAIQICIFSW5kaWE&hl=en&gl=in&sourceid=chrome&prds=opd:7604939094073560722,rsk:PC_1421592916603555831&sa=X&ved=0ahUKEwiJ6rbamIqOAxW2EFkFHQKiM5MQlIUHCCcoAQ",
+        "product_id": "8724381035601074569",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_product&gl=in&google_domain=google.co.in&hl=en&location=India&product_id=8724381035601074569"
+      },
+      "xl": {
+        "link": "https://www.google.co.in/shopping/product/1235023119400585616?ie=UTF-8&uule=w+CAIQICIFSW5kaWE&hl=en&gl=in&sourceid=chrome&prds=opd:7604939094073560722,rsk:PC_1421592916603555831&sa=X&ved=0ahUKEwiJ6rbamIqOAxW2EFkFHQKiM5MQlIUHCCkoAw",
+        "product_id": "1235023119400585616",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_product&gl=in&google_domain=google.co.in&hl=en&location=India&product_id=1235023119400585616"
+      },
+      "xxl": {
+        "link": "https://www.google.co.in/shopping/product/13378504705139663635?ie=UTF-8&uule=w+CAIQICIFSW5kaWE&hl=en&gl=in&sourceid=chrome&prds=opd:7604939094073560722,rsk:PC_1421592916603555831&sa=X&ved=0ahUKEwiJ6rbamIqOAxW2EFkFHQKiM5MQlIUHCCooBA",
+        "product_id": "13378504705139663635",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_product&gl=in&google_domain=google.co.in&hl=en&location=India&product_id=13378504705139663635"
+      }
+    },
+    "variations": {
+      "size": [
+        {
+          "name": "S",
+          "link": "https://www.google.co.in/shopping/product/15508154898307175212?ie=UTF-8&uule=w+CAIQICIFSW5kaWE&hl=en&gl=in&sourceid=chrome&prds=opd:7604939094073560722,rsk:PC_1421592916603555831&sa=X&ved=0ahUKEwiJ6rbamIqOAxW2EFkFHQKiM5MQlIUHCCYoAA",
+          "product_id": "15508154898307175212",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_product&gl=in&google_domain=google.co.in&hl=en&location=India&product_id=15508154898307175212"
+        },
+        {
+          "name": "M",
+          "link": "https://www.google.co.in/shopping/product/8724381035601074569?ie=UTF-8&uule=w+CAIQICIFSW5kaWE&hl=en&gl=in&sourceid=chrome&prds=opd:7604939094073560722,rsk:PC_1421592916603555831&sa=X&ved=0ahUKEwiJ6rbamIqOAxW2EFkFHQKiM5MQlIUHCCcoAQ",
+          "product_id": "8724381035601074569",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_product&gl=in&google_domain=google.co.in&hl=en&location=India&product_id=8724381035601074569"
+        },
+        {
+          "name": "L",
+          "link": "https://www.google.co.in/shopping/product/6818597734019922811?ie=UTF-8&uule=w+CAIQICIFSW5kaWE&hl=en&gl=in&sourceid=chrome&prds=pid:7604939094073560722,rsk:PC_1421592916603555831&sa=X&ved=0ahUKEwiJ6rbamIqOAxW2EFkFHQKiM5MQn08IMygA",
+          "product_id": "6818597734019922811",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_product&gl=in&google_domain=google.co.in&hl=en&location=India&product_id=6818597734019922811",
+          "selected": true
+        },
+        {
+          "name": "XL",
+          "link": "https://www.google.co.in/shopping/product/1235023119400585616?ie=UTF-8&uule=w+CAIQICIFSW5kaWE&hl=en&gl=in&sourceid=chrome&prds=opd:7604939094073560722,rsk:PC_1421592916603555831&sa=X&ved=0ahUKEwiJ6rbamIqOAxW2EFkFHQKiM5MQlIUHCCkoAw",
+          "product_id": "1235023119400585616",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_product&gl=in&google_domain=google.co.in&hl=en&location=India&product_id=1235023119400585616"
+        },
+        {
+          "name": "XXL",
+          "link": "https://www.google.co.in/shopping/product/13378504705139663635?ie=UTF-8&uule=w+CAIQICIFSW5kaWE&hl=en&gl=in&sourceid=chrome&prds=opd:7604939094073560722,rsk:PC_1421592916603555831&sa=X&ved=0ahUKEwiJ6rbamIqOAxW2EFkFHQKiM5MQlIUHCCooBA",
+          "product_id": "13378504705139663635",
+          "serpapi_link": "https://serpapi.com/search.json?engine=google_product&gl=in&google_domain=google.co.in&hl=en&location=India&product_id=13378504705139663635"
+        }
+      ]
+    },
+    "highlights": [
+      "Paisley printed",
+      "Three-quarter, flared sleeves",
+      "A-line shape with regular style",
+      "Knee length with flared hem",
+      "Machine weave regular viscose rayon"
+    ]
+  },
+  "sellers_results": {
+    "online_sellers": [
+      {
+        "position": 1,
+        "name": "Myntra",
+        "link": "https://www.google.co.in/url?q=http://www.myntra.com/Kurtas/PRISCA/PRISCA-Paisley-Printed-Notch-Neck-Panelled-A-Line-Kurta/34025019/buy&opi=95576897&sa=U&ved=0ahUKEwiJ6rbamIqOAxW2EFkFHQKiM5MQ2ykITQ&usg=AOvVaw3qK2qxIgjWZ-FuQ4sbx8JS",
+        "direct_link": "http://www.myntra.com/Kurtas/PRISCA/PRISCA-Paisley-Printed-Notch-Neck-Panelled-A-Line-Kurta/34025019/buy",
+        "details_and_offers": [
+          {
+            "text": "Free delivery by Sun, 29 Jun"
+          }
+        ],
+        "base_price": "₹399.00",
+        "additional_price": {
+          "shipping": "₹0.00"
+        },
+        "total_price": "₹399.00"
+      }
+    ]
+  },
+  "specs_results": {
+    "details": {
+      "body_shape_id": "424",
+      "body_or_garment_size": "Garment Measurements in",
+      "design_styling": "Regular",
+      "fabric_purity": "Pure",
+      "fabrics": "Viscose Rayon"
+    }
+  },
+  "reviews_results": {
+    "ratings": [
+      {
+        "stars": 1,
+        "amount": 3
+      },
+      {
+        "stars": 2,
+        "amount": 0
+      },
+      {
+        "stars": 3,
+        "amount": 2
+      },
+      {
+        "stars": 4,
+        "amount": 12
+      },
+      {
+        "stars": 5,
+        "amount": 48
+      }
+    ],
+    "reviews": [
+      {
+        "position": 1,
+        "date": "2 June 2025",
+        "rating": 5,
+        "source": "· Review provided by myntra.com",
+        "content": "Hi Neha Soni fm karnal .. yesterday got it . Everyone Appreciates it . Vry beautiful kurti in avery reasonable rate.. fitting colour Prize every thing is perfect .i love to buy Mantra ..Vry old customer ..guys before it finishes run for it without any single thought.. thanku so much mantra . going to order more ",
+        "thumbnails": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTCEuOSlZ9InE0JSzY8OYipCGybcbA1DwP0LitsuJEafgKD32kPIwrHg7yipMwm04fnzqcMWi440PClSv8k6ZrDE0eL_XApgcklb2L8wYMP8p1gRHsN9OXZ",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRgorU1Q3AAyJbbhwrq9p1j8uTTG-4fKKP63y9kq9i93y7__XoiHqUEYYtJZOym_H5lvOKn8z4jzpgQ2k9AlyM-bwW_KYxtnVoGpAYTQDVtdNesKgTOTXbH",
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTyvxjvsq1xY3_Vc9g2bMVO2BiLl7AWhid0hq9UlP9DDzvklymMsYcm1JiZqGkMcpnC2n5QmLClDPoHmWhrbUPsPYTs4wREGJ328rf_RbqaEdxTgcvnRh-S",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQlfzv455gHy33yRLUSpz7mnZHiAW_oHIX3D7xumfpY5rHj9djeoBtxtrloIuB_EwoIn4cNWDO0gmwrLNk7KbZfZbtlZXohXWSn61S86L8zoe9JpW5msMMp8A"
+        ],
+        "images": [
+          "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQuKb3RnAahkF_1JDTxSG1GhC9UpU6dTP2HK0tAbr6okwbQH082MhzwNur9AiaHwl7ohYslVY7IhkwJgC-ON5lSNMNDPUzd&usqp=CAY",
+          "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRM9F3zmLhCQ4VuDmGblpwlXYa1wCc761Yj8nWYyMQ1OqXJSq83UycK-0LkHatvEcbegX2Fml8r0NngSeSJRNMnQx8DWteV&usqp=CAY",
+          "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRIidnGxCZEfOCfMOmyPwHeSDvNYTx4Cdz00HmxmWHYHmaCzbkgfk0GpAmAju33t7km-RZZvqMLjshka-aOTlDFHushA-ZG&usqp=CAY",
+          "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS4iLO7eFZxJq5G-sUL4V1BfzElHe9zuf-XQipGSwgsj0tReK1FKsEzuYXkxl-qttiW7qsCuKnuxm7A-XgCBLKHOzf6uJep9A&usqp=CAY"
+        ]
+      }
+    ]
+  }
+}

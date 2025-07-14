@@ -3,18 +3,18 @@ import logger from '@/lib/winston';
 import axios, { AxiosError } from 'axios';
 import * as cheerio from 'cheerio';
 import { NextRequest } from 'next/server';
-import { SCRAPER_API_KEY, SCRAPER_API_URL } from '@/lib/constants';
+import { SCRAPINGDOG_API_KEY, SCRAPINGDOG_API_URL } from '@/lib/constants';
 
-async function fetchWithScraperAPI(targetUrl: string): Promise<string> {
-  const response = await axios.get(SCRAPER_API_URL, {
+async function fetchWithScrapingDog(targetUrl: string): Promise<string> {
+  const resp = await axios.get(SCRAPINGDOG_API_URL, {
     params: {
-      api_key: SCRAPER_API_KEY,
+      api_key: SCRAPINGDOG_API_KEY,
       url: targetUrl,
-      country_code: 'in',
-      device_type: 'desktop'
+      dynamic: 'true',
     },
+    timeout: 60000, // allow up to 60s for retries :contentReference[oaicite:1]{index=1}
   });
-  return response.data;
+  return resp.data;
 }
 
 export async function GET(req: NextRequest) {
@@ -27,7 +27,7 @@ export async function GET(req: NextRequest) {
   }
 
   try {
-    const detailsHtml = await fetchWithScraperAPI(url);
+    const detailsHtml = await fetchWithScrapingDog(url);
     const details$ = cheerio.load(detailsHtml);
     const deliveryDate = details$('.Y8v7Fl').first().text().trim();
 
