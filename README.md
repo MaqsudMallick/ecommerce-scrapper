@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+## Live URL: https://ecommerce-scrapper-six.vercel.app/
+
+Warning: Expired Api keys can make the live site disfunctional. Replace Api keys and redeploy to fix such issues.
 
 ## Getting Started
 
